@@ -1,3 +1,2 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading# targetdone.github.io
+# Explore the world!
+Life is used to explore the world, and reach the top.
